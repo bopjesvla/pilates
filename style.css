@@ -12,8 +12,6 @@ header {
 	width: 100%;
 	
 	border-bottom: solid 1px #BBB;
-	
-	background-color: rgba(200,200,200,.2);
 }
 header div {
 	float: none;
@@ -25,8 +23,6 @@ h1 {
 	color: #000;
 	
 	font-family: serif;
-	
-	font-variant: small-caps;
 	
 	width: 960px;
 	margin: 40px auto 20px;
