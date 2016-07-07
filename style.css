@@ -101,6 +101,7 @@ td, th {
 	width: 214px;
 	height: 320px;
 	background-image: url("IMG_5792.jpeg");
+	background-size: 100%;
 	border: solid #644 5px;
 	border-radius: 5px;
 	content: '';
