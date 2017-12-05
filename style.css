@@ -24,7 +24,6 @@ h1 {
 	
 	font-family: serif;
 	
-	width: 960px;
 	margin: 40px auto 20px;
 }
 h2 {
@@ -50,8 +49,10 @@ h3 {
 	justify-content: space-around;
 	align-content: space-around;
 	width: 0px;
-	min-width: 1080px;
+	max-width: 1080px;
 	margin: 80px auto 0;
+	padding: 20px;
+	width: 100%;
 }
 .content {
 	text-align: left;
@@ -145,4 +146,9 @@ footer {
 }
 .belangrijk {
 	font-weight: bold;
+}
+@media screen and (max-width: 900px) {
+    #wrapper {
+        flex-direction: column;
+    }
 }
