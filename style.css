@@ -99,8 +99,9 @@ td, th {
 	left: 50%;
 	margin-bottom: 6px;
 	display: block;
-	width: 214px;
-	height: 320px;
+	width: 2503em;
+	height: 1668em;
+	font-size: .015em;
 	background-image: url("goed4.jpg");
 	background-size: 100%;
 	border: solid #644 5px;
